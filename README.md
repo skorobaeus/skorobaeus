@@ -7,9 +7,10 @@ My name is Svetlana. I'm a Full Stack Web Designer. I can develop a visual desig
 I'm currently working on two educational projects:
 
 ### [Doka](https://doka.guide/), like MDN but in Russian and with passion
-For Doka, I create demos. Demo is a little webpage inbuilt into an article to help to explain it.
 
-My job here is to understand the idea of the article's author and help to transform it into a final webpage. To maintain the visual consistency of demos, I developed a design system covering the common basic elements.
+These days I'm a Product Designer of Doka. I support an existing design system and develop new features for it.
+
+Originally I joined this project as an interactive designer to create demos, which are little webpages inbuilt into articles for explanation/illustration purposes. My job was to understand the idea of the article's author and then transform it into a final webpage. To maintain the visual consistency of demos, I developed a design system covering the common basic elements.
 
 ✍ [Read an article](https://habr.com/ru/company/yandex_praktikum/blog/646001/) on Habr.com about work done by Doka design team (RU).
 
@@ -22,6 +23,8 @@ I do a code-review (HTML, CSS, JS), support students and help them to manage the
 ## I'm interested in
 
 I value my skill set where design and programming skills are mixed together, and I believe it can help in bringing high-quality user interfaces. I’m looking to collaborate in creating and evolving design systems, UI libraries and other tools.
+
+I will be open for new opportunities in the beggining of the 2023.
 
 ## How to reach me
 
